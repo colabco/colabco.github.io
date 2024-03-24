@@ -1,0 +1,58 @@
+{
+  "meta": {
+    "title": "co:lab:co",
+    "description": "Co:Lab Collective",
+    "lang": "en",
+    "charset": "UTF-8",
+    "ldJson": {
+      "@context": "http://schema.org",
+      "@type": "Organization",
+      "name": "Co:Lab Collective",
+      "description": "A community of developers co-building projects and experimenting together.",
+      "url": "https://colabco.github.io",
+      "logo": "./public/favicon.svg"
+    }
+  },
+  "headerData": {
+    "logo": "Co:Lab Collective",
+    "links": [
+      { "label": "About", "href": "#" },
+      { "label": "Services", "href": "#" },
+      { "label": "Prices", "href": "#" },
+      { "label": "FAQs", "href": "#" },
+      { "label": "Blog", "href": "#" }
+    ]
+  },
+  "heroData": {
+    "title": "Grow with",
+    "subTitle": "Because co-building is more fun than hacking away alone :)",
+    "primaryCta": "Github Repo",
+    "secondaryCta": "Community Projects",
+    "highlightedTitle": "Co:Lab Collective"
+  },
+  "servicesData": {
+    "title": "Our Projects",
+    "services": [
+      {
+        "title": "co:builders",
+        "icon": "DevIcon",
+        "description": "roadmapping and testing out ideas for a platform that faciliates co-building and dev-to-dev collaborations"
+      },
+      {
+        "title": "co:devs community",
+        "icon": "PlanetIcon",
+        "description": "We are an international group of developers that keep in touch over slack and informal weekly syncs to share ideas on advancing collaborative projects"
+      }
+	]
+  },
+  "footerData": {
+    "logo": "Co:Lab Collective",
+    "description": "",
+    "links": [
+      { "label": "About", "href": "/" }
+    ],
+    "socials": [
+      { "icon": "GithubIcon", "href": "/" }
+    ]
+  }
+}
