@@ -1,5 +1,5 @@
 {
-  "name": "luna-landing",
+  "name": "colabco",
   "type": "module",
   "version": "0.0.1",
   "scripts": {
@@ -17,6 +17,7 @@
     "@fontsource-variable/rubik": "^5.0.21",
     "astro": "^4.4.4",
     "astro-robots-txt": "^1.0.0",
+    "sharp": "^0.33.3",
     "tailwindcss": "^3.4.1",
     "typescript": "^5.3.3"
   },
